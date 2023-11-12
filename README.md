@@ -13,6 +13,8 @@ and the Flutter guide for
 
 This Flutter package provides a simple way to show images from the Internet or from assets. It supports both PNG and SVG images.
 
+
+
 ## Features
 
 - Show images from the Internet with a single line of code:
