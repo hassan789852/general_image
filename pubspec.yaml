@@ -1,6 +1,6 @@
 name: general_image
 description: This Flutter package provides a simple way to show images from the Internet or from assets in one line of code.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/hassan789852/general_image
 
 environment:
